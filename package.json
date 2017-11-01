@@ -1,0 +1,11 @@
+{
+  "name": "wordvault",
+  "version": "1.0.0",
+  "description": "vault storing words to be remembered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Ben <chris.ben9@gmail.com>",
+  "license": "ISC"
+}

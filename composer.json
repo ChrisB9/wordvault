@@ -1,0 +1,16 @@
+{
+    "name": "cbenco/wordvault",
+    "description": "vault storing words to be remembered",
+    "type": "project",
+    "license": "none",
+    "authors": [
+        {
+            "name": "Chris Ben",
+            "email": "chris.ben9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
