@@ -12,5 +12,8 @@
     "minimum-stability": "dev",
     "require": {
         "phpunit/phpunit": "^5.7"
+    },
+    "psr-4": { 
+        "cbenco\\": "src/",
     }
 }
