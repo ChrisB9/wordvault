@@ -1,5 +1,5 @@
 <?php
 
-//include 'vendor/autoload.php';
+include 'vendor/autoload.php';
 
-echo "It works.";
+echo "Silence is golden.";
